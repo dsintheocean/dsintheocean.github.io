@@ -1,0 +1,22 @@
+title: <p align="center"> Mikhail Blakhin </p>
+
+logo: "/images/picture.png?raw=true"
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/mikhailblakhin/">LinkedIn</a> |
+  <a href="https://github.com/dsintheocean">GitHub</a>
+  </p>
+  
+  <p align="justify">
+  I am passionate about leveraging technology and data to drive innovation. 
+  With 10 years of professional experience in Automation and NDT, I've had the privilege of wearing multiple hats, including Application Engineer, Product Manager, Project Engineer, and even Head of an Analytics and Diagnostics Center in a leading international company SKF.
+  <br><br>
+  My journey has taken me across the globe, working with diverse teams on cutting-edge projects that push the boundaries of technology. A problem-solver at heart, I thrive on challenges that demand creativity and expertise.
+  In my quest for continuous growth, I embarked on a Data Science journey in the end of 2022. Learning is my passion, and I believe that data holds the key to unlocking new possibilities in every industry.
+  <br><br>
+  </p>
+  
+theme: jekyll-theme-minimal
+google_analytics: G-6Q17Y1XWYM # Google Analytics tracking ID
